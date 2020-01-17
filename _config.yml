@@ -61,7 +61,7 @@ disqus_username: MilkWhite
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: bfe902a85d0b946d68a6                            #生成的clientID
   clientSecret: f7695c64f7996b35d917b15c5d390d73932b1011    #生成的clientSecret
   repo: milkwhite.github.io    #仓库名称
