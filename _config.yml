@@ -68,6 +68,7 @@ gitalk:
   owner: MilkWhite    #github用户名
   admin: MilkWhite
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  id: 'window.location.pathname'
 
 
 # 统计
