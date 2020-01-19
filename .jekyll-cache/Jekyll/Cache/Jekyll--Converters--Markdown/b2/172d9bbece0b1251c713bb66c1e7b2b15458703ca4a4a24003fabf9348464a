@@ -1,0 +1,46 @@
+I"	<blockquote>
+  <p>从知乎问题<a href="https://www.zhihu.com/question/357128934">想了解nlp的最新进展，有哪些途径？</a>的优秀回答中整理而来。</p>
+</blockquote>
+
+<h1 id="网站">网站</h1>
+<ul>
+  <li>
+    <p>俗话说，不给代码的论文都是耍流氓。<a href="https://paperswithcode.com/area/natural-language-processing">paperswithcode</a>这个网站真是良心，把NLP的前沿论文与代码分门别类地整理好，导向性强。</p>
+  </li>
+  <li>
+    <p><a href="https://nlpprogress.com/">NLP-progress</a>的功能与paperswithcode相近，也是收集了NLP下面很多个track的一些sota论文及其代码；虽然界面没有第一个好看，但优点是靠大家一起维护的，所以更新速度比较快~它对应的<a href="https://github.com/sebastianruder/NLP-progress">github项目</a>已经有了一万多颗星星。</p>
+  </li>
+</ul>
+
+<h1 id="github专栏">Github专栏</h1>
+<ul>
+  <li>soulbliss大佬维护的专栏<a href="https://github.com/soulbliss/NLP-conference-compendium">NLP-conference-compendium</a>把NLP几个主流的顶会ACL, EMNLP, COLING, NAACL等等上的一些有代表性的论文、tutorial都按年份整理好了，可以上去找一找你感兴趣的来看一看。</li>
+</ul>
+
+<h1 id="知乎大牛">知乎大牛</h1>
+<ul>
+  <li>
+    <p>清华大学刘知远老师<a href="https://www.zhihu.com/people/zibuyu9/activities">@zibuyu9</a></p>
+  </li>
+  <li>
+    <p>复旦大学邱锡鹏老师<a href="https://www.zhihu.com/people/xpqiu/activities">@邱锡鹏</a></p>
+  </li>
+  <li>
+    <p>Paper Weekly博主张俊老师<a href="zhihu.com/people/zhang-jun-87-61/activities">@张俊</a></p>
+  </li>
+</ul>
+
+<h1 id="公众号">公众号</h1>
+<ul>
+  <li>
+    <p>Paperweekly(paperweekly): 质量高的 AI（特别是 NLP）公众号，也有<a href="http://www.paperweekly.site/">网页版</a>，大家有好的工作也可以在上面分享</p>
+  </li>
+  <li>
+    <p>哈工大SCIR(HIT_SCIR): 哈尔滨工业大学社会计算与信息检索研究中心维护的公众号，会有相关的会议信息（最近 ACL 的新投稿政策）、组内论文推荐等。</p>
+  </li>
+  <li>
+    <p>TsinghuaNLP： 清华大学自然语言处理与社会人文计算实验室维护的公众号，也是干货多多。</p>
+  </li>
+</ul>
+
+:ET

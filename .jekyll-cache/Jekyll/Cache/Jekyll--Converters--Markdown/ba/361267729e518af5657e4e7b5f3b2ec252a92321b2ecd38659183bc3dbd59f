@@ -1,0 +1,41 @@
+I"�<blockquote>
+  <p>本篇博文整理了在搭建博客时用到的一些教程</p>
+
+  <p>希望能对大家有所帮助</p>
+</blockquote>
+
+<h1 id="搭建博客">搭建博客</h1>
+
+<p>本站搭建参考了<a href="https://www.jianshu.com/u/e71990ada2fd">BY的教程</a>。他的Github主页<a href="https://github.com/qiubaiying">👉GitHub·BY</a>与他的简书主页<a href="https://github.com/qiubaiying">👉BY</a>。</p>
+
+<h2 id="补充说明">补充说明</h2>
+<p>Gitalk插件需要先登录才能显示评论框。</p>
+
+<p>每篇博文会自动生成对应的issue和标签，无需手动添加。</p>
+
+<h1 id="同步博客">同步博客</h1>
+<h2 id="git相关教程">Git相关教程</h2>
+
+<p>本地博客需要与Github保持同步，可以参考<a href="https://www.liaoxuefeng.com/wiki/896043488029600">廖雪峰的Git教程</a>。</p>
+
+<p><a href="https://gitee.com/liaoxuefeng/learn-java/raw/master/teach/git-cheatsheet.pdf">Git cheat sheet</a>整理了常用的git命令，使用起来非常方便。</p>
+
+<p>Git的GUI推荐<a href="https://help.github.com/cn/desktop/getting-started-with-github-desktop">Github Desktop</a>，比命令行模式要直观许多。</p>
+
+<h1 id="撰写博客">撰写博客</h1>
+<h3 id="windows下安装jekyll">Windows下安装Jekyll</h3>
+<p>推荐在Windows内置的Linux子系统下安装，基本无坑，可以参考<a href="https://davidburela.wordpress.com/2017/05/17/how-to-install-jekyll-on-windows-10-with-windows-subsystem-for-linux/">How to install Jekyll on Windows 10 with “Windows subsystem for Linux”</a>。</p>
+
+<h3 id="windows下安装markdownpad2">Windows下安装MarkdownPad2</h3>
+
+<p><del>不过平时写博客的话，使用<a href="https://www.jianshu.com/p/1745a7f53404">MarkdownPad</a>就足够了，也有实时预览功能，使用更便捷。</del></p>
+
+<p>Jekyll真香，可以直接预览网页，强烈推荐！</p>
+
+<h3 id="markdown相关教程">markdown相关教程</h3>
+<p>Markdown语法可以参考<a href="https://www.runoob.com/markdown/md-table.html">菜鸟教程</a></p>
+
+<p>###挑选博客背景
+<a href="https://unsplash.com/s/photos/blog-background">unsplash</a>上的背景图片还不错，没事可以去逛逛😄。</p>
+
+:ET
