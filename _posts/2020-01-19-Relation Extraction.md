@@ -25,7 +25,7 @@ tags:                               #标签
 # 远监督
 论文：[Distant supervision for relation extraction without labeled data](https://www.aclweb.org/anthology/P09-1113.pdf)
 
-* Motivatoin
+斯坦福2020年冬季课程 CS124 PPT：[Relation Extraction](https://web.stanford.edu/class/cs124/lec/rel.pdf) 总结了关系抽取的经典方法，也包括远监督(P45)。
 
 
 
