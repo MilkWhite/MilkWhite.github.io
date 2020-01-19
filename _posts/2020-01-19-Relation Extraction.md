@@ -2,7 +2,7 @@
 layout:     post                    # 使用的布局（不需要改）
 title:      Relation Extrction   	# 标题 
 subtitle:   CS224U-Lecture7-rel_ext_01_task.ipynb		# 副标题
-date:       2020-01-18              # 时间
+date:       2020-01-19              # 时间
 author:     MilkWhite               # 作者
 header-img: img/post-bg-book.jfif    	# 这篇文章标题背景图片
 catalog: true                       # 是否归档
